@@ -1,0 +1,6 @@
+{
+  "name": "MetalSense AI — HZL Demand Sensing & Commercial Platform",
+  "description": "Enterprise B2B domestic demand sensing, TAM/SAM market segmentation, LME/SHFE/MCX exchange arbitrage tracking, and commercial auction allocation optimizer for Hindustan Zinc Limited (Zinc, Lead, Silver, Cadmium).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
